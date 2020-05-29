@@ -1,6 +1,6 @@
-# pass-and-go
+![](https://github.com/andrew962/passandgo/blob/1000/static/passandgo.png)
 
-> My stunning Nuxt.js project
+> 
 
 ## Build Setup
 
