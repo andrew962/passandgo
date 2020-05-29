@@ -1,8 +1,8 @@
 {
   "name": "pass-and-go",
   "version": "1.0.0",
-  "description": "My stunning Nuxt.js project",
-  "author": "andrew962",
+  "description": "Nuxt.js project",
+  "author": "Andrew&Fossatti",
   "private": true,
   "scripts": {
     "dev": "nuxt-ts",
