@@ -1,3 +1,3 @@
 <template>
-    <img width="500px" alt="Pass and Go" src="/pass-and-go-logo.svg" />
+    <img width="100%" id="passandgo" alt="Pass and Go" src="/pass-and-go-logo.svg" />
 </template>
